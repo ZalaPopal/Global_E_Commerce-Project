@@ -1,5 +1,6 @@
 # Global_E_Commerce-Project 
----
+
+<br>
 
 ## Overview
 
@@ -11,7 +12,7 @@ The dashboard was developed using Python, Dash, and Plotly. It includes interact
 
 Overall, the Global E-Commerce Sales Dashboard serves as a powerful tool for understanding e-commerce sales and provides a comprehensive view of how e-commerce businesses are performing across different markets.
 
-
+<br>
 
 ## Project Goals
 
@@ -28,28 +29,32 @@ Develop an interactive dashboard that allows users to easily explore and visuali
 
 The Global E-Commerce Sales dataset contains transactional records from multiple countries and regions, structured with the following key features:
 
-Order Date  
-Product Name  
-Product Category  
-Customer Segment  
-Country  
-Region  
-Quantity  
-Unit Price  
-Discount Percent  
-Total Sales  
-Shipping Cost  
-Profit  
-Profit Margin  
-Payment Method  
-Tools  
-Python  
-Pandas  
-NumPy  
-Seaborn  
-Matplotlib  
-Dash  
-Plotly Graph Objects  
+- Order Date  
+- Product Name  
+- Product Category  
+- Customer Segment  
+- Country  
+- Region  
+- Quantity  
+- Unit Price  
+- Discount Percent  
+- Total Sales  
+- Shipping Cost  
+- Profit  
+- Profit Margin  
+- Payment Method  
+
+<br>
+
+## Tools  
+
+- Python  
+- Pandas  
+- NumPy  
+- Seaborn  
+- Matplotlib  
+- Dash  
+- Plotly Graph Objects  
 
 
 
