@@ -1,6 +1,5 @@
-# Global_E_Commerce-Project
+# Global_E_Commerce-Project 
 ---
-
 
 ## Overview
 
@@ -12,7 +11,6 @@ The dashboard was developed using Python, Dash, and Plotly. It includes interact
 
 Overall, the Global E-Commerce Sales Dashboard serves as a powerful tool for understanding e-commerce sales and provides a comprehensive view of how e-commerce businesses are performing across different markets.
 
----
 
 
 ## Project Goals
@@ -24,7 +22,6 @@ Evaluate profitability and profit margins across different markets.
 Explore sales trends and patterns over time.
 Develop an interactive dashboard that allows users to easily explore and visualize the data.
 
----
 
 
 ## Dataset
@@ -54,7 +51,6 @@ Matplotlib
 Dash  
 Plotly Graph Objects  
 
----
 
 
 ## Project Workflow
@@ -90,7 +86,7 @@ A correlation heatmap was created to highlight relationships among key numerical
 Interactive geographic visualizations were used to display sales performance across different countries and regions.
 Dashboard filters and interactive components were implemented to allow users to explore the data dynamically and gain deeper insights.
 
----
+
 
 ## Key Results
 
@@ -101,7 +97,7 @@ Sales and profit showed a strong positive relationship, indicating that higher s
 Shipping costs varied across regions and had an impact on overall profitability.
 Interactive visualizations made it easier to identify trends, patterns, and business opportunities within the dataset.
 
----
+
 
 ## Conclusion
 
