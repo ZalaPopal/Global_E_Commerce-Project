@@ -16,12 +16,12 @@ Overall, the Global E-Commerce Sales Dashboard serves as a powerful tool for und
 
 ## 🎯 Project Goals
 
-- Analyze sales performance across different countries and regions.
-- Identify top-performing products and product categories.
-- Understand customer purchasing behavior through customer segment analysis.
-- Evaluate profitability and profit margins across different markets.
-- Explore sales trends and patterns over time.
-- Develop an interactive dashboard that allows users to easily explore and visualize the data.
+- How do sales and profit trends vary across regions and product categories?
+- Which customer segment is the most profitable?
+- What is the impact of discounts on overall profitability?
+- Are there seasonal patterns in ordering behavior?
+- Which payment methods are preferred in different regions?
+- How do shipping costs affect profit margins across geographies?
 
 <br>
 
