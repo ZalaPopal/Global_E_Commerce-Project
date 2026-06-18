@@ -1,5 +1,4 @@
 # Global_E_Commerce-Project 
-
 <br>
 
 ## Overview
@@ -23,7 +22,7 @@ Evaluate profitability and profit margins across different markets.
 Explore sales trends and patterns over time.
 Develop an interactive dashboard that allows users to easily explore and visualize the data.
 
-
+<br>
 
 ## Dataset
 
@@ -56,12 +55,12 @@ The Global E-Commerce Sales dataset contains transactional records from multiple
 - Dash  
 - Plotly Graph Objects  
 
-
+<br>
 
 ## Project Workflow
 
 
-###Feature Engineering
+### Feature Engineering
 
 The dataset was imported into Python using a Pandas DataFrame for analysis and processing.
 Missing values, duplicate records, and null values were identified and handled to improve data quality and ensure accurate results.
@@ -91,7 +90,7 @@ A correlation heatmap was created to highlight relationships among key numerical
 Interactive geographic visualizations were used to display sales performance across different countries and regions.
 Dashboard filters and interactive components were implemented to allow users to explore the data dynamically and gain deeper insights.
 
-
+<br>
 
 ## Key Results
 
@@ -102,7 +101,7 @@ Sales and profit showed a strong positive relationship, indicating that higher s
 Shipping costs varied across regions and had an impact on overall profitability.
 Interactive visualizations made it easier to identify trends, patterns, and business opportunities within the dataset.
 
-
+<br>
 
 ## Conclusion
 
