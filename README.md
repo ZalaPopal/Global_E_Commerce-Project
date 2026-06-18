@@ -1,4 +1,6 @@
 # Global_E_Commerce-Project
+---
+
 
 ## Overview
 
@@ -12,6 +14,7 @@ Overall, the Global E-Commerce Sales Dashboard serves as a powerful tool for und
 
 ---
 
+
 ## Project Goals
 
 Analyze sales performance across different countries and regions.
@@ -23,34 +26,36 @@ Develop an interactive dashboard that allows users to easily explore and visuali
 
 ---
 
+
 ## Dataset
 
 The Global E-Commerce Sales dataset contains transactional records from multiple countries and regions, structured with the following key features:
 
-Order Date
-Product Name
-Product Category
-Customer Segment
-Country
-Region
-Quantity
-Unit Price
-Discount Percent
-Total Sales
-Shipping Cost
-Profit
-Profit Margin
-Payment Method
-Tools
-Python
-Pandas
-NumPy
-Seaborn
-Matplotlib
-Dash
-Plotly Graph Objects
+Order Date  
+Product Name  
+Product Category  
+Customer Segment  
+Country  
+Region  
+Quantity  
+Unit Price  
+Discount Percent  
+Total Sales  
+Shipping Cost  
+Profit  
+Profit Margin  
+Payment Method  
+Tools  
+Python  
+Pandas  
+NumPy  
+Seaborn  
+Matplotlib  
+Dash  
+Plotly Graph Objects  
 
 ---
+
 
 ## Project Workflow
 
