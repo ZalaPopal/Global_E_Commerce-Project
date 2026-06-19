@@ -61,7 +61,7 @@ The dataset used in this project has been downloaded from `Kaggle` platform [CLI
 
 ## ⚙️ Project Workflow
 
-### 🔧 Data Cleaning and Transformation
+### 🔧 Data Cleaning and Transformation (Data Wrangling)
 
 - The dataset was imported into Python using a Pandas DataFrame for analysis and processing.
 - Missing values, duplicate records, and null values were identified and handled to improve data quality and ensure accurate results.
