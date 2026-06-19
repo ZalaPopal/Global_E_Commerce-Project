@@ -27,22 +27,23 @@ Overall, the Global E-Commerce Sales Dashboard serves as a powerful tool for und
 
 ## 📊 Dataset
 
-The Global E-Commerce Sales dataset contains transactional records from multiple countries and regions, structured with the following key features:
+The dataset used in this project has been downloaded from `Kaggle` platform [CLICK HERE](https://www.kaggle.com/datasets/muhammadaammartufail/global-e-commerce-sales-and-customer-data/data). It contains 2000 transactions and 15 features:
 
-- Order Date
-- Product Name
-- Product Category
-- Customer Segment
-- Country
-- Region
-- Quantity
-- Unit Price
-- Discount Percent
-- Total Sales
-- Shipping Cost
-- Profit
-- Profit Margin
-- Payment Method
+- `Order_ID`:	Unique order identifier (ORD-10001 to ORD-12000)
+- `Order_Date`:	Transaction date (2023-01-01 to 2025-12-31)
+- `Customer_Name`:	Customer full name
+- `Customer_Segment`:	Consumer, Corporate, or Home Office
+- `Country`:	Customer's country (20 countries)
+- `Region`:	Geographic region (North America, Europe, Asia Pacific, Middle East & Africa, South America)
+- `Product_Category`:	Technology, Furniture, Office Supplies, or Clothing & Accessories
+- `Product_Name`:	Specific product name (40 unique products)
+- `Quantity`:	Units ordered (1–15)
+- `Unit_Price`:	Price per unit in USD
+- `Discount_Percent`:	Discount applied (0%–30%)
+- `Total_Sales`:	Revenue = Quantity × Unit_Price × (1 − Discount%)
+- `Shipping_Cost`:	Shipping fee (varies by region and quantity)
+- `Profit`:	Net profit after product cost and shipping
+- `Payment_Method`:	Credit Card, PayPal, Bank Transfer, or Cash on Delivery
 
 <br>
 
@@ -93,12 +94,12 @@ The Global E-Commerce Sales dataset contains transactional records from multiple
 
 ## 🏆 Key Results
 
-- Certain product categories generated significantly higher sales and profit compared to others.
-- Customer purchasing behavior varied across different customer segments.
-- Some countries and regions consistently outperformed others in terms of revenue and profitability.
-- Sales and profit showed a strong positive relationship, indicating that higher sales generally led to higher profits.
-- Shipping costs varied across regions and had an impact on overall profitability.
-- Interactive visualizations made it easier to identify trends, patterns, and business opportunities within the dataset.
+- Among product category, Furniture has the top performance in terms of total sales and profit compared to others.
+- Half of the customer segment is represented by consumers followed by corporate.
+- Countries like Mexico and Canada consistently outperformed others in terms of revenue and profitability.
+- Sales and profit show a strong positive relationship, indicating that higher sales generally led to higher profits.
+- Prefered method of payment across region is credit card followed by paypal.
+- Shipping costs were highest in the Middle East and Africa and lowest in North America, highlighting regional differences that influenced overall profitability.
 
 <br>
 
