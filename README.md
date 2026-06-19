@@ -1,5 +1,4 @@
 # 🌍 Global E-Commerce Project
-
 <br>
 
 ## 📖 Overview
