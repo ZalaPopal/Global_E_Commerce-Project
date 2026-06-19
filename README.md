@@ -1,4 +1,4 @@
-# 🌍 Global_E_Commerce-Project
+# 🌍 Global E-Commerce Project
 
 <br>
 
@@ -48,19 +48,20 @@ The Global E-Commerce Sales dataset contains transactional records from multiple
 
 ## 🛠️ Tools
 
-- Python
-- Pandas
-- NumPy
-- Seaborn
-- Matplotlib
-- Dash
-- Plotly Graph Objects
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)  
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)  
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)  
+![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 <br>
 
 ## ⚙️ Project Workflow
 
-### 🔧 Feature Engineering
+### 🔧 Data Cleaning and Transformation
 
 - The dataset was imported into Python using a Pandas DataFrame for analysis and processing.
 - Missing values, duplicate records, and null values were identified and handled to improve data quality and ensure accurate results.
