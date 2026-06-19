@@ -1,4 +1,4 @@
-# 🌍 Global E-Commerce Project
+# 🌍 Global E-Commerce Sales
 
 <br>
 
