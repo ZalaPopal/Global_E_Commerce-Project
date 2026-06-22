@@ -18,9 +18,9 @@ Overall, the Global E-Commerce Sales Dashboard serves as a powerful tool for und
 
 - How do sales and profit trends vary across regions and product categories?
 - Which customer segment is the most profitable?
-- What is the impact of discounts on overall profitability?
-- Which payment methods are preferred in different regions?
 - How do shipping costs affect profit margins across geographies?
+- Which payment methods are preferred in different regions?
+- Do customer segments display any preferences for any specific product categories?
 
 <br>
 
